@@ -28,7 +28,7 @@ Currency Converter — это графическое приложение для
 
 Зависимости:
 pip install -r requirements.txt
-Или просто: pip install requests
+ Или просто: pip install requests
 
 Для запуска ввести команду: 
 python currency_converter.py
