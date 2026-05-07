@@ -29,5 +29,4 @@ pip install -r requirements.txt
 Или просто: pip install requests
 
 Для запуска ввести команду: 
-bash
 python currency_converter.py
