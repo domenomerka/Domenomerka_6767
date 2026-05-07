@@ -19,3 +19,15 @@ Currency Converter — это графическое приложение для
    ```python
    self.api_key = "ВАШ_API_КЛЮЧ"
 Замените "ВАШ_API_КЛЮЧ" на ваш реальный ключ
+
+Инструкция по запуску
+Требования:
+- Python 3.6 или выше
+- Установленная библиотека requests
+Зависимости:
+pip install -r requirements.txt
+Или просто: pip install requests
+
+Для запуска ввести команду: 
+bash
+python currency_converter.py
